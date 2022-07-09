@@ -23,19 +23,18 @@ a{
  }
 .banner_content{
    position: relative;
-   padding-top: 6%;
-   padding-bottom: 6%; 
+   padding: 90px;
    overflow: hidden;
-   margin-top: 12%;
-   margin-bottom: 12%; 
+   margin: 100px;
+   border-radius: 90px;
    background-color: 
    rgba(0, 0, 0, 0.7); 
    max-width: 660px;
    font-family: roboto;
 }
 .caption{
-   color:#000; 
-   padding:0px 10px 10px; 
+   color:rgb(0, 0, 0); 
+   padding:30px; 
    font-weight: bold; 
    text-align: center;
 }
@@ -62,7 +61,7 @@ a{
 }
 
 footer{
-   padding: 10px 0;
+   padding: 20px ;
    background-color: #101010; 
    columns: #9d9d9d;;
    bottom: 0; 
