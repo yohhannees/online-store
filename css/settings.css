@@ -2,10 +2,7 @@ body{
     width: 100%; 
     height: 100%; 
     margin: 0;
-    background-image:url(/img/cartt.jpg);
-    
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-image:url(/img/Featured-Image.jpg);
     }
 a{
     text-decoration: none; 
